@@ -1,0 +1,48 @@
+h1{
+	color: green;
+	font-family: 'Courier New', Courier, monospace;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color:green;
+	position:fixed; 
+	position: sticky;
+	top: 0;
+
+  }
+  
+  li {
+	float: right;
+	margin-right: 40px;
+	font-weight: 700;
+
+  }
+  
+  li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-family: 'Courier New', Courier, monospace;
+  }
+  
+  li a:hover {
+	background-color: #111;
+  }
+  .left{
+	  float: left;
+	  margin-top: 10px;
+	  margin-left: 20px;
+	  color: white;
+	  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	  font-size: large;
+  }
+  h2{
+      color: orangered;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
